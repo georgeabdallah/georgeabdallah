@@ -1,6 +1,6 @@
 
 <img src="FB_IMG_1650627069618.jpg" width="200">
 😏
-<img align="center" src="https://github-readme-stats.vercel.app/api/<top_langs>/?username=<USERNAME>&theme=<THEME_NAME>" />
+[![george's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgeabdallah)](https://github.com/anuraghazra/github-readme-stats)
 
 
