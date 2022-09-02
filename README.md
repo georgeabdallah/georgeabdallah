@@ -1,6 +1,6 @@
 ### Hi there 👋
-![Header]https://avatars.githubusercontent.com/u/111144750?s=400&u=06cef65a623b013920e17ecfae512521fc1377ec&v=4
-<!--
+[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+
 **georgeabdallah/georgeabdallah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
